@@ -52,18 +52,18 @@ footer-links:
   weibo: u/7781153888 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: admin@hanjunhui.com #youremailaddress@mail.com
+  email: junhuihan@vip.qq.com #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: hanjunhui123 #https://github.com/<>
-  instagram: #https://instagram.com/<>
+  github: theguyhjh #https://github.com/<>
+  instagram: theguyhjh #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
   rss: hanjunhui #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  twitter: hanjunhui123 # https://www.twitter.com/<your_twitter_username> 
-  youtube: channel/UCEJS2gqqBuDJpEKS-WvVr-Q # channel/<your_long_string> or user/<user-name>
+  twitter: theguyhjh # https://www.twitter.com/<your_twitter_username> 
+  youtube: @theguyhjh # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
 footer-text: © 2024 韩俊辉 版权所有
