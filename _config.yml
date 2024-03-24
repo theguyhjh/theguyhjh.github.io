@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: Han J. H.
+name: theguyhjh
 description: 夙夜匪懈
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
@@ -50,23 +50,23 @@ excerpt_separator: <!-- more -->
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
   weibo: u/7781153888 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  behance: # https://www.behance.net/<>
-  dribbble: # https://dribbble.com/<>
-  email: admin@hanjunhui.com #youremailaddress@mail.com
+  behance: #https://www.behance.net/<>
+  dribbble: #https://dribbble.com/<>
+  email: theguyhjh@qq.com #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: theguyhjh #https://github.com/<>
   instagram: theguyhjh #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: hjh #随便填点啥RSS就能用了
+  rss: theguyhjh #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: #https://<username>.tumblr.com
-  twitter: theguyhjh # https://www.twitter.com/<your_twitter_username> 
-  youtube: theguyhjh # channel/<your_long_string> or user/<user-name>
+  twitter: theguyhjh #https://www.twitter.com/<your_twitter_username> 
+  youtube: theguyhjh #channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright © 2024 Han J. H. All rights reserved.
+footer-text: Copyright © 2024 theguyhjh. All rights reserved.
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
