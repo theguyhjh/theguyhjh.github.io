@@ -15,4 +15,4 @@ permalink: /about/
 
 ### 联系方式        
 如遇个人招聘、转载文章、站内举报或其他问题需要与我取得联系，可通过以下方式：          
-+ 电子邮箱：[theguyhjh#qq.com](mailto:theguyhjh@qq.com])（把#替换成@再发送）      
++ 电子邮箱：[theguyhjh#qq.com](mailto:theguyhjh@qq.com)（把#替换成@再发送）      
